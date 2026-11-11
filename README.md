@@ -1,5 +1,4 @@
-# Portofolio Denim Y2K - Fulca Liya Furaidah
-
+Portofolio 
 Buka `index.html` di browser. Tidak perlu build atau instalasi.
 Font memakai Google Fonts (Bowlby One + DM Sans) dan perlu koneksi internet; tanpa internet, font cadangan sistem dipakai.
 
